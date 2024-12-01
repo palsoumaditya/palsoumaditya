@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am Soumaditya Pal, a third-year Computer Science and Engineering student at NSHM Knowledge Campus, Durgapur. I’m passionate about technology, especially web development using the MERN stack. As the lead of CodeNEST, an open-source development club, I’m actively involved in the tech community. I also enjoy exploring app development and am always eager to learn about the latest tech trends.<br><br><br><br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?viewas=100000686899395&id=100083821472533) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumaditya.pal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumaditya-pal-109029309) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soumadityapal) 
 
