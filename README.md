@@ -1,21 +1,63 @@
-# 💫 About Me:
-I am Soumaditya Pal, a passionate 3rd-year Computer Science and Engineering student with a strong foundation in full-stack development. My expertise includes React.js, Node.js, MongoDB, Express.js, ShadCN, Tailwind CSS, PostgreSQL, Supabase, Next.js, C++, C, and more. I am a continuous learner, currently diving into Three.js and TypeScript to expand my skills.<br><br>I am currently working on Edu-Empower, an AI-based scholarship portal, where I primarily focus on the frontend development to create an intuitive and seamless user experience.<br><br>Beyond coding, I am actively involved in the tech community. I founded CodeNEST, the coding club at my college, and serve as the Outreach Lead at the Open Source Student Development Club, where I connect developers and foster a collaborative learning environment.<br><br>I thrive on building innovative projects, exploring new technologies, and contributing to open source. Always eager to learn, share knowledge, and grow in the ever-evolving tech landscape!
+# 👋 Hey there, I'm Soumaditya Pal!
 
+> "A builder at heart. A learner for life."
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumaditya.pal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumaditya-pal-109029309) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soumadityapal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumadityapal@outlook.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=palsoumaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=palsoumaditya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=palsoumaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=palsoumaditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I’m a **3rd-year CSE student**, but more than that — I’m a **full-stack developer**, **tech community builder**, and someone who **thrives on solving real-world problems** with code. Whether it’s launching an AI-powered scholarship platform, building my own UI library from scratch, or leading dev communities — I’m **always shipping, always scaling, always learning.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=palsoumaditya&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 What Makes Me Stand Out?
+
+- ⚡ **Product-focused developer** with frontend mastery using **React, Next.js, Tailwind, ShadCN, and Three.js**
+- 🧠 Currently building **TailorUI**, a beautiful, dev-first UI component library
+- 🤖 Created **Edu-Empower**, an AI-based scholarship portal to help students find opportunities
+- 🌐 Running **CodeNEST** – a growing student dev club I founded to push boundaries on campus
+- 🧩 Exploring **agent-based AI simulations** with **LLMs, Mesa, Neo4j** to model viral content
+- 🔥 Active **open-source contributor** & community lead at OSSDC – building in public, collaborating globally
+
+If you're a **founder**, **early-stage startup**, or **tech-first team** — I’m your intern who won’t just follow tasks, but **help you push the product forward**.
+
+---
+
+### 🌐 Let’s Connect:
+<p align="center">
+  <a href="https://instagram.com/soumaditya.pal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/soumaditya-pal-109029309"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/soumadityapal"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="mailto:soumadityapal@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack (I Use These Like Superpowers):
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,threejs,shadcn,prisma,supabase,vercel,netlify,git,github,docker,figma,vite,firebase,appwrite,postman,jwt,gcp,c,cpp" style="border-radius: 12px; padding: 8px;" width="100%" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palsoumaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=palsoumaditya&theme=dark&hide_border=false" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palsoumaditya&theme=dark&hide_border=false&layout=compact" width="48%" />
+</p>
+
+---
+
+## 🔥 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=palsoumaditya&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=palsoumaditya&icon=0&color=6" />
+  </a>
+</p>
+
+<!-- Built with love, caffeine, and open-source spirit ❤️ -->
