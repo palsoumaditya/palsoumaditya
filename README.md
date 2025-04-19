@@ -38,7 +38,7 @@ If you're a **founder**, **startup CTO**, or someone who loves shipping product 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,threejs,shadcn,prisma,supabase,vercel,netlify,git,github,docker,figma,vite,firebase,appwrite,postman,jwt,gcp,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,threejs,prisma,supabase,vercel,netlify,git,github,docker,figma,vite,firebase,appwrite,postman,gcp,c,cpp" />
 </p>
 
 ---
