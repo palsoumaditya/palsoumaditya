@@ -96,7 +96,7 @@ At Legal Care, I engineered production systems for legal-tech, focusing on utili
 I am ready to discuss how my skills can drive your project or company forward.
 
 * **Portfolio:** [**www.soumadityapal.in**](https://www.soumadityapal.in/) 🌐
-* **Email:** [soumadityapal@outlook.com](mailto:soumadityapal@outlook.com)
+* **Email:** [soumaditya.pal23@gmail.com](mailto:soumaditya.pal23@gmail.com)
 * **LinkedIn:** [linkedin.com/in/soumaditya-pal-109029309](https://www.linkedin.com/in/soumaditya-pal-109029309)
 * **GitHub:** [github.com/palsoumaditya](https://github.com/palsoumaditya)
 * **X (Twitter):** [x.com/soumadityapal](https://x.com/soumadityapal)
