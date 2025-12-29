@@ -7,17 +7,17 @@ I treat performance as a core feature, not an afterthought. Whether it is design
 
 ---
 
-## 💼 Current Availability
+## Current Availability
 
-**🟢 Open for Freelancing & Contract Work**
-I am available for freelance projects that require robust full-stack architecture. If you have a complex idea that needs to be translated into a deployable, scalable product, I can manage the complete lifecycle—from database design to frontend deployment.
-
-**🟢 Seeking Full-Time Opportunities**
+**Seeking Full-Time Opportunities**
 I am actively looking for new job roles (Frontend, Backend, or Full Stack Engineer). I bring a senior-level engineering mindset to the team, focusing on business logic just as much as the source code.
+
+**Open for Freelancing & Contract Work**
+I am available for freelance projects that require robust full-stack architecture. If you have a complex idea that needs to be translated into a deployable, scalable product, I can manage the complete lifecycle—from database design to frontend deployment.
 
 ---
 
-## 🚀 Why Hire Me?
+## Why Hire Me?
 
 My value proposition goes beyond writing code. Based on my engineering philosophy and track record, here is what I bring to your team:
 
@@ -49,7 +49,7 @@ I utilize a modern, scalable tech stack to build distributed systems.
 
 ---
 
-## 👨‍💻 Professional Experience
+##  Professional Experience
 
 ### **Legal Care** | Full Stack Developer Intern
 *Remote | June 2025 — September 2025*
@@ -62,7 +62,7 @@ At Legal Care, I engineered production systems for legal-tech, focusing on utili
 
 ---
 
-## 🧪 Featured Projects
+##  Featured Projects
 
 ### **VideoSure**
 *Human-in-the-loop Media Platform*
@@ -81,7 +81,7 @@ At Legal Care, I engineered production systems for legal-tech, focusing on utili
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Tech, Computer Science & Engineering**
 *NSHM Knowledge Campus, Durgapur*
@@ -89,11 +89,11 @@ At Legal Care, I engineered production systems for legal-tech, focusing on utili
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 I am ready to discuss how my skills can drive your project or company forward.
 
-* **Email:** [soumadityapal@outlook.com](mailto:soumadityapal@outlook.com)
+* **Email:** [soumaditya.pal23@gmil.com](mailto:soumaditya.pal23@gmail.com)
 * **LinkedIn:** [linkedin.com/in/soumaditya-pal-109029309](https://www.linkedin.com/in/soumaditya-pal-109029309)
 * **GitHub:** [github.com/palsoumaditya](https://github.com/palsoumaditya)
 * **X (Twitter):** [x.com/soumadityapal](https://x.com/soumadityapal)
