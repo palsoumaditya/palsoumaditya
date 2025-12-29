@@ -1,116 +1,99 @@
-<h1 align="center">🚀 Soumaditya Pal — Builder • Full Stack Dev • Dreamer</h1>
+# Soumaditya Pal
+**Full Stack Engineer | Distributed Systems & Modern Web Architectures**
 
-<p align="center">
-  <em>
-    Final-year CSE Undergrad • Co-Founder at <b>FableFrame.in</b> • Open Source & DevRel Enthusiast <br/>
-    Turning caffeine & creativity into scalable products ☕⚙️
-  </em>
-</p>
+I am a Computer Science Engineer currently operating as a Full Stack Developer. My core expertise lies in bridging the gap between complex backend logic and high-performance user interfaces. Unlike a typical junior developer, I approach software engineering with a focus on systems design, scalability, and production reliability.
+
+I treat performance as a core feature, not an afterthought. Whether it is designing schema architectures in PostgreSQL or deploying containerized microservices, I strive to build software that is both maintainable and impactful.
 
 ---
 
-## 👨‍💻 Work Experience
+## 💼 Current Availability
 
-### 🏗️ **FableFrame.in** — Co-Founder & Full Stack Developer  
-*Jun 2025 – Present | Remote*  
-- Architected & developed scalable web platforms (like **FableFrame.in**) using **Next.js**, **React**, **Node.js**, and **TailwindCSS**.  
-- Owned full product lifecycles — from concept → design → deployment.  
-- Managed agile workflows, **CI/CD**, and **performance monitoring**, ensuring smooth delivery for client projects.  
+**🟢 Open for Freelancing & Contract Work**
+I am available for freelance projects that require robust full-stack architecture. If you have a complex idea that needs to be translated into a deployable, scalable product, I can manage the complete lifecycle—from database design to frontend deployment.
 
-### ⚖️ **LegalCare** — Full Stack Developer Intern  
-*Jun 2025 – Present | Remote*  
-- Engineered scalable backend services & RESTful APIs using **Node.js** and **Express.js**.  
-- Built responsive UIs in **ReactJS** for product dashboards & admin panels.  
-- Collaborated in agile sprints for **code reviews**, **bug fixes**, and **performance optimization**.  
+**🟢 Seeking Full-Time Opportunities**
+I am actively looking for new job roles (Frontend, Backend, or Full Stack Engineer). I bring a senior-level engineering mindset to the team, focusing on business logic just as much as the source code.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Why Hire Me?
 
-### 🎓 [Edu-Empower](https://edu-empower-rho.vercel.app/)  
-*Full-stack scholarship-matching platform*  
-- Connects students with funding using **React**, **Node.js**, **Express.js**, and **PostgreSQL**.  
-- Integrated **Razorpay** crowdfunding & **Clerk** authentication.  
-- Dynamic dashboards + **Framer Motion** animations + responsive **Tailwind UI**.  
-🔗 [GitHub Repo](https://github.com/akash202004/edu-empower.git)
+My value proposition goes beyond writing code. Based on my engineering philosophy and track record, here is what I bring to your team:
 
----
+### 1. Production-Grade Reliability
+I do not just build features; I architect digital products for stability. My experience includes enforcing clean code standards through rigorous peer reviews and executing performance tuning to improve load times.
 
-### 🧠 [Sim-Fluence](https://simfluence.vercel.app/)  
-*AI-powered content testing platform*  
-- Uses **agent-based simulations** to predict social engagement before posting.  
-- Stack: **Next.js**, **TypeScript**, **Prisma**, **PostgreSQL**, **Reddit API**.  
-- Added **Zod** validation & performance-tuned simulations for scalability.  
-🔗 [GitHub Repo](https://github.com/palsoumaditya/Sim-Fluence.git)
+### 2. Full Lifecycle Ownership
+I have expertise spanning the complete lifecycle of an application. I am comfortable designing complex schema architectures in PostgreSQL, building High-Performance UIs in React, and managing DevOps tasks like optimizing CI/CD pipelines.
+
+### 3. Business-Centric Engineering
+I believe that code must serve the business. As I state in my portfolio: *"If you are looking for a developer who understands the business logic as clearly as the source code, let's connect."* I focus on building systems that solve actual problems, such as reducing user wait times or automating complex media workflows.
 
 ---
 
-## ⚡ Technical Skills
+## 🛠 Technical Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,threejs,prisma,supabase,vercel,netlify,git,github,docker,figma,vite,firebase,appwrite,postman,gcp,c,cpp,python" />
-</p>
+I utilize a modern, scalable tech stack to build distributed systems.
+
+**Frontend Ecosystem**
+* **Core:** React.js, Next.js (App Router), TypeScript, JavaScript (ES6+)
+* **State & Styling:** Redux, Tailwind CSS, HTML5, CSS3
+* **Performance:** High-performance UI rendering, Complex workflow optimization
+
+**Backend & Infrastructure**
+* **Runtime:** Node.js, Express.js, Go (Golang), C++
+* **Databases:** PostgreSQL, MongoDB, Prisma ORM
+* **DevOps:** AWS, Docker, Nginx, Vercel, CI/CD Pipelines
+* **Protocols:** REST APIs, Web3 Protocols (Experimental)
 
 ---
 
-## 🌍 Activities & Community
+## 👨‍💻 Professional Experience
 
-### ☁️ Cloud Native Durgapur Chapter — Co-Organizer  
-*June 2025 – Present*  
-- Organized cloud-native tech events & workshops for 200+ devs.  
-- Led hands-on sessions on **Docker**, **Kubernetes**, and **CI/CD with GCP**.  
+### **Legal Care** | Full Stack Developer Intern
+*Remote | June 2025 — September 2025*
 
-### 💬 Founder — CodeNEST Tech Club  
-- Mentoring 40+ college devs to build & ship projects.  
-- Driving open-source contributions and hackathon culture.  
+At Legal Care, I engineered production systems for legal-tech, focusing on utility and speed.
+* **Architecture:** Architected high-performance User Interfaces with React.js, specifically handling complex workflows required by legal professionals.
+* **Backend Development:** Developed and optimized Node.js/Express APIs to serve as the backbone for the platform's utility features.
+* **Performance Engineering:** Executed deep performance tuning and debugging sessions to drastically improve application load times and responsiveness.
+* **Code Quality:** Enforced clean code standards through rigorous peer reviews, ensuring the codebase remained maintainable and scalable.
+
+---
+
+## 🧪 Featured Projects
+
+### **VideoSure**
+*Human-in-the-loop Media Platform*
+**The Problem:** Automated video editing often lacks precision.
+**The Solution:** I built a platform that translates natural language into deterministic FFmpeg transformations. This "human-in-the-loop" system ensures that video processing is both automated and accurate, effectively bridging the gap between AI intent and rigid file outputs.
+
+### **Involve**
+*Hyper-Local Services Platform*
+**The Problem:** Connecting users with local professionals is often slow and fragmented.
+**The Solution:** I developed a revolutionary on-demand platform designed to connect users with pros in under 10 minutes. The architecture focused on low-latency matching and a user-centric experience to drive immediate real-world connections.
+
+### **Edu-Empower**
+*Global Scholarship Bridge*
+**The Problem:** Students struggle to find and access global educational funding.
+**The Solution:** A comprehensive bridge platform connecting students with funding resources. I implemented complex backend logic to aggregate data and secure frontend interfaces to ensure students could safely access financial opportunities.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech, Computer Science & Engineering**  
-*NSHM Knowledge Campus, Durgapur (2022–2026)*  
+**B.Tech, Computer Science & Engineering**
+*NSHM Knowledge Campus, Durgapur*
+*Final-year Student*
 
 ---
 
-## 🌐 Let’s Connect
+## 📬 Contact Me
 
-<p align="center">
-  <a href="https://instagram.com/soumaditya.pal"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.linkedin.com/in/soumaditya-pal-109029309"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/soumadityapal"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:soumadityapal@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+I am ready to discuss how my skills can drive your project or company forward.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palsoumaditya&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=palsoumaditya&theme=radical&hide_border=false" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palsoumaditya&theme=radical&layout=compact&hide_border=false" width="49%"/>
-</p>
-
----
-
-## 🏆 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=palsoumaditya&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=palsoumaditya&icon=0&color=6" />
-</p>
-
----
-
-<p align="center">
-  <em>💡 Built with caffeine, curiosity, and a bit of chaos — always shipping something new 🚀</em>
-</p>
+* **Email:** [soumadityapal@outlook.com](mailto:soumadityapal@outlook.com)
+* **LinkedIn:** [linkedin.com/in/soumaditya-pal-109029309](https://www.linkedin.com/in/soumaditya-pal-109029309)
+* **GitHub:** [github.com/palsoumaditya](https://github.com/palsoumaditya)
+* **X (Twitter):** [x.com/soumadityapal](https://x.com/soumadityapal)
