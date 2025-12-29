@@ -1,23 +1,25 @@
 # Soumaditya Pal
 **Full Stack Engineer | Distributed Systems & Modern Web Architectures**
 
-I am a Computer Science Engineer currently operating as a Full Stack Developer. My core expertise lies in bridging the gap between complex backend logic and high-performance user interfaces. Unlike a typical junior developer, I approach software engineering with a focus on systems design, scalability, and production reliability.
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=for-the-badge&logoColor=white)](https://www.soumadityapal.in/) [![Freelance Available](https://img.shields.io/badge/Freelance-Available-10b981?style=for-the-badge&logoColor=white)](https://www.soumadityapal.in/) [![Scalable Backend](https://img.shields.io/badge/Focus-Scalable%20Backend-3b82f6?style=for-the-badge&logoColor=white)](https://github.com/palsoumaditya)
+
+I am a Computer Science Engineer currently operating as a Full Stack Developer. My core expertise lies in bridging the gap between complex backend logic and high-performance user interfaces. Unlike a typical junior developer, I approach software engineering with a focus on **systems design, scalability, and production reliability**.
 
 I treat performance as a core feature, not an afterthought. Whether it is designing schema architectures in PostgreSQL or deploying containerized microservices, I strive to build software that is both maintainable and impactful.
 
 ---
 
-## Current Availability
+## 💼 Current Availability
 
-**Seeking Full-Time Opportunities**
+**🟢 Seeking Full-Time Opportunities**
 I am actively looking for new job roles (Frontend, Backend, or Full Stack Engineer). I bring a senior-level engineering mindset to the team, focusing on business logic just as much as the source code.
 
-**Open for Freelancing & Contract Work**
+**🟢 Open for Freelancing & Contract Work**
 I am available for freelance projects that require robust full-stack architecture. If you have a complex idea that needs to be translated into a deployable, scalable product, I can manage the complete lifecycle—from database design to frontend deployment.
 
 ---
 
-## Why Hire Me?
+## 🚀 Why Hire Me?
 
 My value proposition goes beyond writing code. Based on my engineering philosophy and track record, here is what I bring to your team:
 
@@ -49,7 +51,7 @@ I utilize a modern, scalable tech stack to build distributed systems.
 
 ---
 
-##  Professional Experience
+## 👨‍💻 Professional Experience
 
 ### **Legal Care** | Full Stack Developer Intern
 *Remote | June 2025 — September 2025*
@@ -62,7 +64,7 @@ At Legal Care, I engineered production systems for legal-tech, focusing on utili
 
 ---
 
-##  Featured Projects
+## 🧪 Featured Projects
 
 ### **VideoSure**
 *Human-in-the-loop Media Platform*
@@ -81,7 +83,7 @@ At Legal Care, I engineered production systems for legal-tech, focusing on utili
 
 ---
 
-##  Education
+## 🎓 Education
 
 **B.Tech, Computer Science & Engineering**
 *NSHM Knowledge Campus, Durgapur*
@@ -89,11 +91,12 @@ At Legal Care, I engineered production systems for legal-tech, focusing on utili
 
 ---
 
-##  Contact Me
+## 📬 Contact Me
 
 I am ready to discuss how my skills can drive your project or company forward.
 
-* **Email:** [soumaditya.pal23@gmil.com](mailto:soumaditya.pal23@gmail.com)
+* **Portfolio:** [**www.soumadityapal.in**](https://www.soumadityapal.in/) 🌐
+* **Email:** [soumadityapal@outlook.com](mailto:soumadityapal@outlook.com)
 * **LinkedIn:** [linkedin.com/in/soumaditya-pal-109029309](https://www.linkedin.com/in/soumaditya-pal-109029309)
 * **GitHub:** [github.com/palsoumaditya](https://github.com/palsoumaditya)
 * **X (Twitter):** [x.com/soumadityapal](https://x.com/soumadityapal)
